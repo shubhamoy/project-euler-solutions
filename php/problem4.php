@@ -6,7 +6,9 @@
 		for($j=1;$j<=1000;$j++){
 			$r = $n1 * $n2;
 			if(strrev($r) == $r){
-				$res[] = $r;
+				if(!in_array($r, $res)){
+					$res[] = $r;
+				}
 			}
 			$n1--;
 		}
