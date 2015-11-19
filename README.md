@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/grade/150622e254844ff9b24e33599b9a687c)](https://www.codacy.com/app/shubhamoy/project-euler-solutions)
 Project Euler Solutions
 =======================
 
