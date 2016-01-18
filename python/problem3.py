@@ -1,4 +1,4 @@
-import math, re
+import math
 
 def isPrime(n):
 
